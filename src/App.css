@@ -1,0 +1,36 @@
+.App {
+  padding: 1rem 5rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+p {
+  font-weight: 600;
+}
+input {
+  height: 30px;
+  width: 400px;
+  padding: .5rem .9rem;
+}
+select {
+  height: 50px;
+  width: 433px;
+  padding: .5rem .9rem;
+}
+button {
+  padding: .9rem;
+  width: 433px;
+  background: #000;
+  color: #fff;
+  border: none;
+  font-size: 16px;
+}
+.output p {
+  font-size: 30px;
+}
+.output ul {
+  list-style: none;
+}
+.output ul li {
+  font-size: 26px;
+  margin: 1rem 0;
+}
