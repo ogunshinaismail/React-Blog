@@ -18,7 +18,7 @@ You may also see any lint errors in the console.
 
 ## `npx json-server --watch data/db.json --port 8000`
 
-Runs the server for our database
+Runs the server for our database.\
 Open [http://localhost:3000](http://localhost:8000) to view it in your browser.
 
 ### `npm test`
